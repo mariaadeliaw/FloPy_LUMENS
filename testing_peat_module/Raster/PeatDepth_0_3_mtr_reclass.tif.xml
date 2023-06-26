@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20230213</CreaDate><CreaTime>14380300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20230213" Time="143803">Reclassify PeatDepth_3_5_mtr.tif Value "0 -5" D:\MW\DATA\LUMENS\LUMENS_PEAT\TESTING\DATA\Testing_1\Testing_1\2Raster\PeatDepth_0_3_mtr_reclass.tif DATA</Process></lineage></DataProperties></Esri></metadata>
