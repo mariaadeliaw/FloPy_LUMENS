@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20230206</CreaDate><CreaTime>17434700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20230206" Time="174347">ExtractByMask INA_1sec_srtm_refine_48s_100m.tif KHG_SungaiPenu_Sungai_Abah.tif D:\Personal_Interest\ModFlow\Test1\dataset\Raster\INA_1sec_srtm_refine_48s_100m.tif</Process></lineage></DataProperties></Esri></metadata>
